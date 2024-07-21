@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The RAG Web Application leverages Azure and OpenAI services to process and index documents, providing summarized answers using the "text-embedding-ada-003" model.
+The RAG Web Application leverages Azure and OpenAI services to process and index documents, providing summarized answers using the "text-embedding-ada-003" model. This also give user the option to fetch the important key value pairs from the documents and the whole summary of the document. 
 
 ## Getting Started
 
